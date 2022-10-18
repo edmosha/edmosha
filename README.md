@@ -4,13 +4,18 @@
    ## Привет, я Даша! 
 </div>
 
-<!-- align="center" для центрирования пикчи -->
-### &#9996; Обо мне:
-Студентка 3 курса, учусь веб-разработке
+<div  align="center">
+  
+  ### &#9996; Обо мне:
+  
+  Студентка 3 курса, учусь веб-разработке
+</div>
 
 ---
 
-### :hammer_and_wrench: Мой стек:
+<div  align="center">
+  
+  ### :hammer_and_wrench: Мой стек:
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -20,11 +25,17 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
+  
+</div>
 
 ---
-### :fire: Статистика
+
+<div  align="center">
+  
+  ### :fire: Статистика
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edmosha&theme=material-palenight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmosha&layout=compact&theme=material-palenight&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+</div>
