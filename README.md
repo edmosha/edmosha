@@ -1,8 +1,10 @@
-<div id="header">
+<div id="header" align="center">
   <img src="https://i.imgur.com/1g5ZFzU.gif" width="100"/>
+  
+   ## Привет, я Даша! 
 </div>
-<!-- align="center" для центрирования пикчи -->
 
+<!-- align="center" для центрирования пикчи -->
 ### &#9996; Обо мне:
 Студентка 3 курса, учусь веб-разработке
 
