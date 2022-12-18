@@ -1,12 +1,7 @@
-<div id="header" align="center">
-  <img src="https://i.imgur.com/1g5ZFzU.gif" width="100"/>
+
+ ### &#9996; Обо мне:
   
-   ## Привет, я Даша! 
-</div>
-  
-### &#9996; Обо мне:
-  
-  Студентка 3 курса, учусь веб-разработке
+  Привет, я Даша! Хожу в универ, учусь веб-разработке :fire: 
 
 ---
 
@@ -23,9 +18,5 @@
 </div>
 
 ---
-  
-### :fire: Статистика
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmosha&theme=buefy&show_icons=true&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmosha&layout=compact&theme=buefy&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
