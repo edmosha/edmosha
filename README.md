@@ -23,7 +23,7 @@
 ### Портфолио
 1) **⭐ Маркетплейс графических изображений:**
    * Совместный проект выпускников практикума (в разработке)
-   * * [📌 сайт проекта](https://marketplace-of-graphic-images.github.io/frontend/) <br>
+   * [📌 сайт проекта](https://marketplace-of-graphic-images.github.io/frontend/) <br>
    * [📎 Репозиторий Frontend](https://github.com/Marketplace-of-graphic-images/frontend) <br>
 
 2) **⭐ Movies Explorer:** <br>
